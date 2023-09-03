@@ -1,8 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&display=swap');
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,3 +10,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.weater_container{
+  width: 50%;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  gap: 20px;
+  margin: auto;
+  text-align: center;
+}
+.weater_container .card{
+  border: 2px solid #efefef;
+  padding: 20px;
+  border-radius: 5px;
+}
+ .card_img{
+  width: 50%;
+  margin: auto; 
+ }
+ .weater_container input{
+  padding: 10px 30px; 
+  border: 2px solid #efefef;
+  border-radius: 5px;
+ }
+ .weater_container button{
+  background: #000;
+  color: #fff;
+  border: 0;
+  padding: 10px 30px;
+  font-size: 14px;
+  border-radius: 5px;
+  outline: 0;
+  cursor: pointer;
+ }
