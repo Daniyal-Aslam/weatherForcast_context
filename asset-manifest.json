@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Daniyal-Aslam.github.io/weatherForcast_context/static/css/main.7a6aa43e.css",
-    "main.js": "/Daniyal-Aslam.github.io/weatherForcast_context/static/js/main.bb97332b.js",
-    "static/js/787.9ac1d5cb.chunk.js": "/Daniyal-Aslam.github.io/weatherForcast_context/static/js/787.9ac1d5cb.chunk.js",
-    "index.html": "/Daniyal-Aslam.github.io/weatherForcast_context/index.html",
-    "main.7a6aa43e.css.map": "/Daniyal-Aslam.github.io/weatherForcast_context/static/css/main.7a6aa43e.css.map",
-    "main.bb97332b.js.map": "/Daniyal-Aslam.github.io/weatherForcast_context/static/js/main.bb97332b.js.map",
-    "787.9ac1d5cb.chunk.js.map": "/Daniyal-Aslam.github.io/weatherForcast_context/static/js/787.9ac1d5cb.chunk.js.map"
+    "main.css": "/weatherForcast_context/static/css/main.7a6aa43e.css",
+    "main.js": "/weatherForcast_context/static/js/main.c5badf7b.js",
+    "static/js/787.9ac1d5cb.chunk.js": "/weatherForcast_context/static/js/787.9ac1d5cb.chunk.js",
+    "index.html": "/weatherForcast_context/index.html",
+    "main.7a6aa43e.css.map": "/weatherForcast_context/static/css/main.7a6aa43e.css.map",
+    "main.c5badf7b.js.map": "/weatherForcast_context/static/js/main.c5badf7b.js.map",
+    "787.9ac1d5cb.chunk.js.map": "/weatherForcast_context/static/js/787.9ac1d5cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a6aa43e.css",
-    "static/js/main.bb97332b.js"
+    "static/js/main.c5badf7b.js"
   ]
 }
